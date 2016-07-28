@@ -1,7 +1,8 @@
 # Site wide configuration
 
-title: "Your Awesome Site"
-description: "A Coming Soon Template"
+title: "Yassine Rafa"
+description: "A new version of my portfolio is coming soon! 
+In the meantime, connect with me on social media."
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
@@ -18,9 +19,9 @@ countdown:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: Yassine Rafa
+  email: yassine.rafa@outlook.com
+  twitter: https://twitter.com/yassine_raf
   google-plus:
   instagramm:
   #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
